@@ -1,0 +1,24 @@
+# Secrets - NEVER push these
+.env
+
+# Virtual environments
+.venv/
+.venv_old/
+.venv-linux/
+
+# Checkpoint database (local auto-saves)
+checkpoints.db
+checkpoints.db-shm
+checkpoints.db-wal
+
+# Terminal-Bench run outputs (large logs and recordings)
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / notebooks
+.vscode/
+*.ipynb
+notes.txt

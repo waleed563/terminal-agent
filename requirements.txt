@@ -1,0 +1,10 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-openai
+langchain-anthropic
+langsmith
+python-dotenv
+
+# Only needed to run the Terminal-Bench benchmark (Linux / WSL, Python 3.12+)
+terminal-bench
